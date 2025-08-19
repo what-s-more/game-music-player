@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Node.js dependencies (should be installed via npm install)
+music-player-frontend/node_modules/
+music-player-frontend/dist/
+music-player-frontend/.vite/
